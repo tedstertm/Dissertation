@@ -1,0 +1,2469 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=latex 2011.4.29)  2 FEB 2012 15:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
+de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
+{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
+documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
+ tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
+\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode .a.b.c.\input  main.tex
+(./main.tex (/usr/local/texlive/2010/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2008-10-27-17:23
+Package: tex4ht 
+--------------------------------------
+--- Note --- for _ at preamble, use the command line option `early_'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ at preamble, use the command line option `early^'
+--------------------------------------
+\tmp:toks=\toks14
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2009-05-21-09:32
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count88
+)
+(./StyleFiles/mythesis.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+)
+
+Package epstopdf Warning: Drivers other than `pdftex.def' are not supported.
+
+)) (/usr/local/texlive/2010/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2010/01/09 v3.1m Customizing captions (AR)
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@indent=\dimen108
+\caption@parindent=\dimen109
+\caption@hangindent=\dimen110
+)
+\c@ContinuedFloat=\count89
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/local/texlive/2010/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen111
+\lightrulewidth=\dimen112
+\cmidrulewidth=\dimen113
+\belowrulesep=\dimen114
+\belowbottomsep=\dimen115
+\aboverulesep=\dimen116
+\abovetopsep=\dimen117
+\cmidrulesep=\dimen118
+\cmidrulekern=\dimen119
+\defaultaddspace=\dimen120
+\@cmidla=\count90
+\@cmidlb=\count91
+\@aboverulesep=\dimen121
+\@belowrulesep=\dimen122
+\@thisruleclass=\count92
+\@lastruleclass=\count93
+\@thisrulewidth=\dimen123
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen124
+\extrarowheight=\dimen125
+\NC@list=\toks16
+\extratabsurround=\skip45
+\backup@length=\skip46
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen126
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 311.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 312.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 313.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 314.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 315.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 316.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 317.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 318.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 319.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 320.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 321.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 322.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 323.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 324.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 326.
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen127
+))
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen128
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen129
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip10
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks18
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks19
+\eqnshift@=\dimen130
+\alignsep@=\dimen131
+\tagshift@=\dimen132
+\tagwidth@=\dimen133
+\totwidth@=\dimen134
+\lineht@=\dimen135
+\@envbody=\toks20
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/hanging/hanging.sty
+Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
+\h@ngcommawd=\skip50
+\h@ngfstopwd=\skip51
+\h@ngquotewd=\skip52
+\h@ngdquotewd=\skip53
+\h@ngquerywd=\skip54
+\h@ngexclwd=\skip55
+\h@ngcolonwd=\skip56
+\h@ngscolonwd=\skip57
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/movie15/movie15.sty
+Package: movie15 2009/07/07
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/ifdraft.sty
+Package: ifdraft 2008/08/11 v1.3 Switch for option draft (HO)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)
+\@MXV@page=\count106
+\@MXV@includes=\count107
+\@MXV@players=\count108
+\@MXV@links=\count109
+\@MXV@width=\dimen136
+\@MXV@height=\dimen137
+\@MXV@depth=\dimen138
+\@MXV@totalheight=\dimen139
+\@MXV@@boxdepth=\dimen140
+\@MXV@traiselen=\dimen141
+\@MXV@braiselen=\dimen142
+\@MXV@start=\dimen143
+\@MXV@end=\dimen144
+\@MXV@textbox=\box28
+)
+(./StyleFiles/outlines.sty
+
+LaTeX Warning: You have requested package `StyleFiles/outlines',
+               but the package provides `outlines'.
+
+Package: outlines 
+) (/Users/warrick/Library/texmf/tex/latex/mcode.sty
+Package: `mcode' 1.2 <2005/11/17>
+Package: mcode 2005/11/17 1.2
+mcode: settings optimized for display!
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 130.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(/usr/local/texlive/2010/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count110
+\lst@gtempboxa=\box29
+\lst@token=\toks22
+\lst@length=\count111
+\lst@currlwidth=\dimen145
+\lst@column=\count112
+\lst@pos=\count113
+\lst@lostspace=\dimen146
+\lst@width=\dimen147
+\lst@newlines=\count114
+\lst@lineno=\count115
+\lst@maxwidth=\dimen148
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count116
+\lst@skipnumbers=\count117
+\lst@framebox=\box30
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2011/04/17 v6.82g Hypertext links for LaTeX
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package atveryend Info: \enddocument detected (standard).
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\@linkdim=\dimen149
+\Hy@linkcounter=\count118
+\Hy@pagecounter=\count119
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2011/04/17 v6.82g Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count120
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 3905.
+Package hyperref Info: Option `linktocpage' set `true' on input line 3905.
+Package hyperref Info: Option `colorlinks' set `true' on input line 3905.
+Package hyperref Info: Hyper figures OFF on input line 4026.
+Package hyperref Info: Link nesting OFF on input line 4031.
+Package hyperref Info: Hyper index ON on input line 4034.
+Package hyperref Info: Plain pages OFF on input line 4041.
+Package hyperref Info: Backreferencing OFF on input line 4046.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4264.
+\c@Hy@tempcnt=\count121
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4617.
+\Fld@menulength=\count122
+\Field@Width=\dimen150
+\Fld@charsize=\dimen151
+\Field@toks=\toks23
+Package hyperref Info: Hyper figures OFF on input line 5701.
+Package hyperref Info: Link nesting OFF on input line 5706.
+Package hyperref Info: Hyper index ON on input line 5709.
+Package hyperref Info: backreferencing OFF on input line 5716.
+Package hyperref Info: Link coloring ON on input line 5719.
+Package hyperref Info: Link coloring with OCG OFF on input line 5726.
+Package hyperref Info: PDF/A mode OFF on input line 5731.
+LaTeX Info: Redefining \ref on input line 5771.
+LaTeX Info: Redefining \pageref on input line 5775.
+\Hy@abspage=\count123
+
+
+Package hyperref Message: Stopped early.
+
+)
+
+Package hyperref Message: Driver: htex4ht.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/hyperref/htex4ht.def
+File: htex4ht.def 2011/04/17 v6.82g Hyperref driver for TeX4ht
+Package hyperref Info: tex4ht is already loaded.
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count124
+\float@exts=\toks24
+\float@box=\box31
+\@float@everytoks=\toks25
+\@floatcapt=\box32
+)
+\@float@every@matlab=\toks26
+\c@matlab=\count125
+\c@thrm=\count126
+)
+(./StyleFiles/tgrind.sty
+tgrind version 1.00 <07 July 1993>
+) (/usr/local/texlive/2010/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip58
+\f@ncyO@elh=\skip59
+\f@ncyO@erh=\skip60
+\f@ncyO@olh=\skip61
+\f@ncyO@orh=\skip62
+\f@ncyO@elf=\skip63
+\f@ncyO@erf=\skip64
+\f@ncyO@olf=\skip65
+\f@ncyO@orf=\skip66
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(./StyleFiles/uwthesis.sty
+\c@theorem=\count127
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
+version 2009-01-07-07:11
+--------------------------------------
+--- Note --- for additional information, use the command line option `info'
+--------------------------------------
+
+::::::::::::::::::::::::::::::::::::::::::
+ TeX4ht info is available in the log file 
+::::::::::::::::::::::::::::::::::::::::::
+) (/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2008-10-27-17:23
+
+--- needs --- tex4ht main ---
+\tmp:cnt=\count128
+\openout15 = `main.tmp'.
+
+(./main.tmp)
+\tmp:dim=\skip67
+--------------------------------------
+--- Note --- for XML code, use the command line option `xml' or `xhtml'
+--------------------------------------
+ (./main.xref)
+\:refout=\write3
+\openout3 = `main.xref'.
+
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- to remove the <?xml version=...?> processing instruction use the c
+ommand line option `no-VERSION'
+--------------------------------------
+--------------------------------------
+--- Note --- to remove the DOCTYPE declaration use the command line option `no-
+DOCTYPE'
+--------------------------------------
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+)
+--------------------------------------
+--- Note --- for marking of the base font, use the command line option `fonts+'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for non active _, use the command line option `no_'
+--------------------------------------
+--------------------------------------
+--- Note --- for _ of catcode 13, use the command line option `_13'
+--------------------------------------
+--------------------------------------
+--- Note --- for non active ^, use the command line option `no^'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ of catcode 13, use the command line option `^13'
+--------------------------------------
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- for alternative charset, use the command line option `charset=...'
+
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
+on
+--------------------------------------
+--------------------------------------
+--- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for gif bitmaps of pictures, use the `gif' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for content and toc in 2 frames, use the command line option `fram
+es'
+--------------------------------------
+--------------------------------------
+--- Note --- for content, toc, and footnotes in 3 frames, use the command line 
+option `frames-fn'
+--------------------------------------
+--------------------------------------
+--- Note --- for file extension name xht, use the command line option `xht'
+--------------------------------------
+TeX4ht package options: html
+--------------------------------------
+--- Note --- to ignore CSS code, use the command line option `-css
+--------------------------------------
+--------------------------------------
+--- Note --- for inline CSS code, use the command line option `css-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for pop ups on mouse over, use the command line option `mouseover'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for addressing images in a subdirectory, use the command line opti
+on `imgdir:.../'
+--------------------------------------
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+)
+\:tokwrite=\toks27
+\:tokpage=\toks28
+--------------------------------------
+--- Note --- for back links to toc, use the command line option `sections+'
+--------------------------------------
+--------------------------------------
+--- Note --- for linear crosslinks of pages, use the command line option `next'
+
+--------------------------------------
+\openout15 = `main.4ct'.
+
+\:tocout=\write4
+\openout4 = `main.4tc'.
+
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/latex.4ht
+version 2009-05-21-09:32
+--------------------------------------
+--- Note --- for links into captions, instead of float heads, use the command l
+ine option `refcaption'
+--------------------------------------
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- For mini tocs immediately aftter the header use the command line o
+ption `minitoc<'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements with valued data, use the command lin
+e option `enumerate+'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements li's with value attributes, use the c
+ommand line option `enumerate-'
+--------------------------------------
+--------------------------------------
+--- Note --- for CSS2 code, use the command line option `css2'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial tabular, use the command line option `pic-tabular'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap fbox'es, use the command line option `pic-fbox'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap framebox'es, use the command line option `pic-framebox'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for inline footnotes use command line option `fn-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for tracing of latex font commands, use the command line option `f
+onts'
+--------------------------------------
+--------------------------------------
+--- Note --- for width specifications of tabular p entries, use the `p-width' c
+ommand line option or a configuration similar to \Configure{HColWidth}{\HCode{ 
+style="width:\HColWidth"}}
+--------------------------------------
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ environments, use the command line option `pic
+-m' (not recommended!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use t
+he command line option `pic-m+' (not safe!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/fontmath.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/report.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- for automatic sectioning pagination, use the command line option `
+1', `2', `3', '4', '5', '6', or '7'
+--------------------------------------
+--------------------------------------
+--- Note --- for files named derived from section titles, use the command line 
+option `sec-filename'
+--------------------------------------
+--------------------------------------
+--- Note --- for i-columns index, use the command line option `index=i' (e.g., 
+index=2)
+--------------------------------------
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/graphicx.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/graphics.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- if included graphics are of degraded quality, try the command line
+ options `graphics-num' or `graphics-'. The `num' should provide the density of
+ pixels in the bitmaps (e.g., 110). 
+--------------------------------------
+--------------------------------------
+--- Note --- for key dimensions try the option `Gin-dim'; for key dimensions wh
+en bounding box is unavailable try `Gin-dim+'; neither is recommended
+--------------------------------------
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/dvips.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/natbib.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/caption.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/booktabs.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/array.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/multirow.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/amsmath.4ht
+version 2009-05-21-09:32
+\tmp:muskip=\muskip12
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/amstext.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/amsbsy.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/amsopn.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/ifthen.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/everyshi.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/color.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/dvipsnam.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/dvipsnam.def)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/listings.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- to ensure proper alignments use fixed size fonts (see listings.dtx
+)
+--------------------------------------
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/hyperref.4ht
+version 2011-01-30-16:01
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count129
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/nameref.4ht
+version 2010-09-04-21:02
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+LaTeX Info: Redefining \autoref on input line 100.
+\Hy@SectionHShift=\skip68
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/pd1enc.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/url.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- for URL encoding within href use the command line option `url-enc'
+
+--------------------------------------
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/float.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/amssymb.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/amsfonts.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(./main.aux (./Chapters/Introduction/Chapter.aux)
+(./Chapters/Physics/Chapter.aux) (./Chapters/FluxCapacitor/Chapter.aux)
+(./Chapters/Concentrator/Chapter.aux) (./Chapters/Oscillator/Chapter.aux)
+(./Chapters/TumorCellAdhesion/Chapter.aux) (./Chapters/Cardiac/Chapter.aux)
+(./Chapters/RealTimeCM/Chapter.aux) (./Chapters/FutureDirections/Chapter.aux)
+(./Chapters/Conclusion/Chapter.aux) (./Appendicies/DropletGeometry/Appendix.aux
+) (./Appendicies/Diffusion/Appendix.aux)
+(./Appendicies/Concentrator/Appendix.aux)
+(./Appendicies/Oscillator/Appendix.aux)
+(./Appendicies/DiffusionValve/Appendix.aux) (./Appendicies/Cardiac/Appendix.aux
+) (./Appendicies/RealTimeCM/Appendix.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 50.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: Incompatible package detected (regarding \caption).
+(caption)             \caption = macro:->\:CheckOption {refcaption}\if:Option \
+SkipRefstepAnchor \fi \refstepcounter \@captype \@dblarg {\@caption \@captype }
+.
+Package caption Info: Incompatible package detected (regarding \@caption).
+(caption)             \@caption = macro:->\ifx \EndPicture \:UnDef \expandafter
+ \n:@caption: \else \expandafter \o:@caption: \fi .
+
+
+Package caption Warning: \caption will not be redefined since it's already
+(caption)                redefined by a document class or package which is
+(caption)                unknown to the caption package.
+See the caption package documentation for explanation.
+
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count130
+\AtBeginShipoutBox=\box33
+Package hyperref Info: Link coloring ON on input line 50.
+LaTeX Info: Redefining \ref on input line 50.
+LaTeX Info: Redefining \pageref on input line 50.
+LaTeX Info: Redefining \nameref on input line 50.
+--- file main.css ---
+[0.1
+
+] [1.1] [2.1] (./frontmatter/abs.tex) [3.1
+
+] (./frontmatter/ack.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 1.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 1.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [4.1
+
+]) [5.1]
+(./frontmatter/papers.tex [6.1
+
+] [7.1
+
+] [8.1
+
+] [9.1] [10.1] [11.1
+
+] [12.1
+
+] [13.1
+
+]
+[14.1] [15.1]) [16.1
+
+] (./main.4ct [17.1
+
+] [18.1] [19.1] [20.1] [21.1] [22.1]
+[23.1] [24.1] [25.1] [26.1]) [27.1] (./main.4ct) [28.1
+
+] [29.1] (./main.4ct
+[30.1
+
+] [31.1] [32.1] [33.1] [34.1]) [35.1] [1.1]
+\openout2 = `Chapters/Introduction/Chapter.aux'.
+
+
+(./Chapters/Introduction/Chapter.tex [2.1
+
+] [3.1
+
+] [4.1
+
+]
+l. 7 Writing main.idv[1] (main0x.png)
+File: ./Chapters/Introduction/Figures/IntroDiagram.pdf Graphic file (type eps)
+
+<./Chapters/Introduction/Figures/IntroDiagram.pdf> [5.1
+
+]) [6.1
+
+] [7.1
+
+]
+\openout2 = `Chapters/Physics/Chapter.aux'.
+
+
+(./Chapters/Physics/Chapter.tex [8.1
+
+]
+Chapter 1.
+[9.1
+
+] [10.1
+
+]
+l.6 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Intro
+duction/Figures/PP_1.png (no BoundingBox) ---
+l. 6 --- needs --- ./Chapters/Introduction/Figures/PP_1.png ---
+l.7 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Intro
+duction/Figures/PP_2.png (no BoundingBox) ---
+l. 7 --- needs --- ./Chapters/Introduction/Figures/PP_2.png ---
+l.8 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Intro
+duction/Figures/PP_3.png (no BoundingBox) ---
+l. 8 --- needs --- ./Chapters/Introduction/Figures/PP_3.png ---
+[11.1
+
+]
+l. 17 Writing main.idv[2] (main1x.png)
+ [12.1
+
+]
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 28.
+l. 31 Writing main.idv[3] (main2x.png)
+ [13.1] [14.1] [15.1
+
+]
+l.40 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Phys
+ics/Figures/Wells_and_Microchannels_2_Cropped.png (no BoundingBox) ---
+l. 40 --- needs --- ./Chapters/Physics/Figures/Wells_and_Microchannels_2_Croppe
+d.png ---
+l. 40 Writing main.idv[4] (main3x.png)
+l.40 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Phys
+ics/Figures/Zeta.pdf (no BoundingBox) ---
+File: ./Chapters/Physics/Figures/Zeta.pdf Graphic file (type eps)
+<./Chapters/Physics/Figures/Zeta.pdf> [16.1
+
+]
+l. 56 Writing main.idv[5] (main4x.png)
+ [17.1
+
+] [18.1] [19.1
+
+]
+l. 65 Writing main.idv[6] (main5x.png)
+
+l.65 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Phys
+ics/Figures/EvaporationSchematic.pdf (no BoundingBox) ---
+File: ./Chapters/Physics/Figures/EvaporationSchematic.pdf Graphic file (type ep
+s)
+<./Chapters/Physics/Figures/EvaporationSchematic.pdf> [20.1
+
+] [21.1
+
+] [22.1
+
+]
+l. 75 Writing main.idv[7] (main6x.png)
+
+l.75 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Phys
+ics/Figures/Evaporation_Exptl2.pdf (no BoundingBox) ---
+File: ./Chapters/Physics/Figures/Evaporation_Exptl2.pdf Graphic file (type eps)
+
+<./Chapters/Physics/Figures/Evaporation_Exptl2.pdf> [23.1
+
+] [24.1
+
+] [25.1
+
+]
+l. 93 Writing main.idv[8] (main7x.png)
+
+l.93 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Phys
+ics/Figures/MicrofluidicsScales.pdf (no BoundingBox) ---
+File: ./Chapters/Physics/Figures/MicrofluidicsScales.pdf Graphic file (type eps
+)
+<./Chapters/Physics/Figures/MicrofluidicsScales.pdf> [26.1
+
+] [27.1
+
+] [28.1
+
+]
+l. 102 Writing main.idv[9] (main8x.png)
+
+l.102 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Phy
+sics/Figures/CellVolumeRatio.pdf (no BoundingBox) ---
+File: ./Chapters/Physics/Figures/CellVolumeRatio.pdf Graphic file (type eps)
+<./Chapters/Physics/Figures/CellVolumeRatio.pdf> [29.1
+
+] [30.1
+
+] [31.1] [32.1
+
+]
+l.125 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Phy
+sics/Figures/DiffusionIntro_Cropped.jpg (no BoundingBox) ---
+l. 125 --- needs --- ./Chapters/Physics/Figures/DiffusionIntro_Cropped.jpg ---
+l. 125 Writing main.idv[10] (main9x.png)
+File: ./Chapters/Physics/Figures/MathModel.pdf Graphic file (type eps)
+<./Chapters/Physics/Figures/MathModel.pdf> [33.1
+
+] [34.1
+
+]
+l. 145 Writing main.idv[11] (main10x.png)
+ [35.1]
+l. 152 Writing main.idv[12] (main11x.png)
+l. 157 Writing main.idv[13] (main12x.png)
+ [36.1]
+l. 162 Writing main.idv[14] (main13x.png)
+l. 167 Writing main.idv[15] (main14x.png)
+ [37.1]
+l. 172 Writing main.idv[16] (main15x.png)
+l. 177 Writing main.idv[17] (main16x.png)
+
+[38.1]
+l. 184 Writing main.idv[18] (main17x.png)
+ [39.1] [40.1] [41.1
+
+]
+l. 193 Writing main.idv[19] (main18x.png)
+File: ./Chapters/Physics/Figures/Alpha.pdf Graphic file (type eps)
+ <./Chapters/Physics/Figures/Alpha.pdf> [42.1
+
+]
+[43.1
+
+] [44.1
+
+]
+l. 205 Writing main.idv[20] (main19x.png)
+File: ./Chapters/Physics/Figures/LaminarMethod.pdf Graphic file (type eps)
+ <./Chapters/Physics/Figures/LaminarMethod.pdf>
+l. 205 Writing main.idv[21] (main20x.png)
+File: ./Chapters/Physics/Figures/LaminarSchematic.pdf Graphic file (type eps)
+
+<./Chapters/Physics/Figures/LaminarSchematic.pdf>
+l. 206 Writing main.idv[22] (main21x.png)
+File: ./Chapters/Physics/Figures/SegregatedMethod.pdf Graphic file (type eps)
+
+<./Chapters/Physics/Figures/SegregatedMethod.pdf>
+l. 206 Writing main.idv[23] (main22x.png)
+File: ./Chapters/Physics/Figures/SegregatedSchematic.pdf Graphic file (type eps
+)
+
+<./Chapters/Physics/Figures/SegregatedSchematic.pdf>
+l. 207 Writing main.idv[24] (main23x.png)
+File: ./Chapters/Physics/Figures/GelMethod.pdf Graphic file (type eps)
+
+<./Chapters/Physics/Figures/GelMethod.pdf>
+
+! LaTeX Error: File `GelSchematic' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.207 ...udegraphics[height= 1.4cm]{GelSchematic}}
+                                                   & 250 & 750 & 20 & 0 & 0$...
+
+? 
+[45.1
+
+] [46.1
+
+] [47.1] [48.1] [49.1
+
+]
+l. 256 Writing main.idv[25] (main24x.png)
+File: ./Chapters/Physics/Figures/CylindricalChannel.pdf Graphic file (type eps)
+
+
+<./Chapters/Physics/Figures/CylindricalChannel.pdf> [50.1
+
+] [51.1
+
+] [52.1
+
+]
+l. 268 Writing main.idv[26] (main25x.png)
+
+l.268 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Phy
+sics/Figures/PDGF.pdf (no BoundingBox) ---
+File: ./Chapters/Physics/Figures/PDGF.pdf Graphic file (type eps)
+<./Chapters/Physics/Figures/PDGF.pdf> [53.1
+
+] [54.1
+
+] [55.1
+
+]
+l. 279 Writing main.idv[27] (main26x.png)
+
+l.279 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Phy
+sics/Figures/EGF.pdf (no BoundingBox) ---
+File: ./Chapters/Physics/Figures/EGF.pdf Graphic file (type eps)
+<./Chapters/Physics/Figures/EGF.pdf> [56.1
+
+] [57.1
+
+]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [58.1] [59.1] [60.1])
+[61.1] [62.1
+
+]
+\openout2 = `Chapters/FluxCapacitor/Chapter.aux'.
+
+ (./Chapters/FluxCapacitor/Chapter.tex [63.1
+
+]
+Chapter 2.
+[64.1
+
+] [65.1
+
+]
+l.11 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Flux
+Capacitor/Figures/figure1.jpg (no BoundingBox) ---
+l. 11 --- needs --- ./Chapters/FluxCapacitor/Figures/figure1.jpg ---
+[66.1
+
+] [67.1
+
+] [68.1] [69.1] [70.1] [71.1] [72.1
+
+]
+l.54 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Flux
+Capacitor/Figures/figure2.jpg (no BoundingBox) ---
+l. 54 --- needs --- ./Chapters/FluxCapacitor/Figures/figure2.jpg ---
+[73.1
+
+]
+l. 65 Writing main.idv[28] (main27x.png)
+ [74.1
+
+]
+l. 70 Writing main.idv[29] (main28x.png)
+ [75.1] [76.1
+
+]
+l.79 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Flux
+Capacitor/Figures/figure3.jpg (no BoundingBox) ---
+l. 79 --- needs --- ./Chapters/FluxCapacitor/Figures/figure3.jpg ---
+[77.1
+
+] [78.1
+
+]
+l. 88 Writing main.idv[30] (main29x.png)
+ [79.1] [80.1
+
+]
+l.100 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Flu
+xCapacitor/Figures/figure4.png (no BoundingBox) ---
+l. 100 --- needs --- ./Chapters/FluxCapacitor/Figures/figure4.png ---
+[81.1
+
+] [82.1
+
+] [83.1] [84.1
+
+]
+l.134 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Flu
+xCapacitor/Figures/figure5.png (no BoundingBox) ---
+l. 134 --- needs --- ./Chapters/FluxCapacitor/Figures/figure5.png ---
+[85.1
+
+] [86.1
+
+]) [87.1] [88.1
+
+]
+\openout2 = `Chapters/Concentrator/Chapter.aux'.
+
+ (./Chapters/Concentrator/Chapter.tex [89.1
+
+]
+Chapter 3.
+--- file main2.html ---
+[90.1
+
+] [91.1
+
+] [92.1
+
+]
+l. 18 Writing main.idv[31] (main30x.png)
+
+l.18 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Conc
+entrator/Figures/RadialConcentrator_SchematicFinal.pdf (no BoundingBox) ---
+File: ./Chapters/Concentrator/Figures/RadialConcentrator_SchematicFinal.pdf Gra
+phic file (type eps)
+<./Chapters/Concentrator/Figures/RadialConcentrator_SchematicFinal.pdf>
+l. 19 Writing main.idv[32] (main31x.png)
+
+l.19 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Conc
+entrator/Figures/RadialConcentratorMovieSequence2.pdf (no BoundingBox) ---
+File: ./Chapters/Concentrator/Figures/RadialConcentratorMovieSequence2.pdf Grap
+hic file (type eps)
+<./Chapters/Concentrator/Figures/RadialConcentratorMovieSequence2.pdf> [93.1
+
+]
+[94.1
+
+]
+--- file main3.html ---
+ [95.1
+
+] [96.1] [97.1]
+l. 51 Writing main.idv[33] (main32x.png)
+ [98.1] [99.1]
+--- file main4.html ---
+ [100.1] [101.1
+
+]
+l. 81 Writing main.idv[34] (main33x.png)
+ [102.1]
+l. 84 Writing main.idv[35] (main34x.png)
+l. 87 Writing main.idv[36] (main35x.png)
+ [103.1]
+[104.1] [105.1
+
+]
+l. 101 Writing main.idv[37] (main36x.png)
+File: ./Chapters/Concentrator/Figures/pp_Composite.pdf Graphic file (type eps)
+ <./Chapters/Concentrator/Figures/pp_Composite.pdf>
+l. 102 Writing main.idv[38] (main37x.png)
+
+l.102 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Con
+centrator/Figures/Concentration.pdf (no BoundingBox) ---
+File: ./Chapters/Concentrator/Figures/Concentration.pdf Graphic file (type eps)
+
+<./Chapters/Concentrator/Figures/Concentration.pdf>
+l. 104 Writing main.idv[39] (main38x.png)
+
+l.104 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Con
+centrator/Figures/CellCount_Vs_VolumeAdded.pdf (no BoundingBox) ---
+File: ./Chapters/Concentrator/Figures/CellCount_Vs_VolumeAdded.pdf Graphic file
+ (type eps)
+<./Chapters/Concentrator/Figures/CellCount_Vs_VolumeAdded.pdf> [106.1
+
+] [107.1]
+[108.1
+
+] [109.1] [110.1] [111.1
+
+]
+l. 126 Writing main.idv[40] (main39x.png)
+
+l.126 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Con
+centrator/Figures/MaximumCellLoss.pdf (no BoundingBox) ---
+File: ./Chapters/Concentrator/Figures/MaximumCellLoss.pdf Graphic file (type ep
+s)
+<./Chapters/Concentrator/Figures/MaximumCellLoss.pdf>
+l. 127 Writing main.idv[41] (main40x.png)
+
+l.127 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Con
+centrator/Figures/COMSOLPercentLoss_Normalized.pdf (no BoundingBox) ---
+File: ./Chapters/Concentrator/Figures/COMSOLPercentLoss_Normalized.pdf Graphic 
+file (type eps)
+<./Chapters/Concentrator/Figures/COMSOLPercentLoss_Normalized.pdf> [112.1
+
+]
+[113.1
+
+] [114.1] [115.1
+
+] [116.1
+
+] [117.1
+
+] [118.1] [119.1
+
+]
+l.172 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Con
+centrator/Figures/FinalOverlay_Crop.png (no BoundingBox) ---
+l. 172 --- needs --- ./Chapters/Concentrator/Figures/FinalOverlay_Crop.png ---
+[120.1
+
+] [121.1
+
+]) [122.1] [123.1
+
+]
+\openout2 = `Chapters/Oscillator/Chapter.aux'.
+
+ (./Chapters/Oscillator/Chapter.tex [124.1
+
+]
+Chapter 4.
+[125.1
+
+] [126.1] [127.1
+
+]
+l.17 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Osci
+llator/Figures/OscillatoryDiagram3.jpg (no BoundingBox) ---
+l. 17 --- needs --- ./Chapters/Oscillator/Figures/OscillatoryDiagram3.jpg ---
+[128.1
+
+] [129.1
+
+] [130.1] [131.1
+
+]
+l. 33 Writing main.idv[42] (main41x.png)
+
+l.33 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Osci
+llator/Figures/PizeoVoltageResponse.pdf (no BoundingBox) ---
+File: ./Chapters/Oscillator/Figures/PizeoVoltageResponse.pdf Graphic file (type
+ eps)
+<./Chapters/Oscillator/Figures/PizeoVoltageResponse.pdf>
+l. 34 Writing main.idv[43] (main42x.png)
+
+l.34 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Osci
+llator/Figures/PiezoFrequencyResponse.pdf (no BoundingBox) ---
+File: ./Chapters/Oscillator/Figures/PiezoFrequencyResponse.pdf Graphic file (ty
+pe eps)
+<./Chapters/Oscillator/Figures/PiezoFrequencyResponse.pdf> [132.1
+
+]
+l. 48 Writing main.idv[44] (main43x.png)
+ [133.1
+
+]
+[134.1] [135.1
+
+]
+l. 57 Writing main.idv[45] (main44x.png)
+
+l.57 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Osci
+llator/Figures/Pulsatile_vs_SteadyShear2.pdf (no BoundingBox) ---
+File: ./Chapters/Oscillator/Figures/Pulsatile_vs_SteadyShear2.pdf Graphic file 
+(type eps)
+<./Chapters/Oscillator/Figures/Pulsatile_vs_SteadyShear2.pdf> [136.1
+
+] [137.1
+
+]
+[138.1] [139.1
+
+]
+l. 69 Writing main.idv[46] (main45x.png)
+
+l.69 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Osci
+llator/Figures/ChannelFrequencyResponseTheory2.pdf (no BoundingBox) ---
+File: ./Chapters/Oscillator/Figures/ChannelFrequencyResponseTheory2.pdf Graphic
+ file (type eps)
+<./Chapters/Oscillator/Figures/ChannelFrequencyResponseTheory2.pdf> [140.1
+
+]
+[141.1
+
+] [142.1
+
+]
+l. 80 Writing main.idv[47] (main46x.png)
+
+l.80 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Osci
+llator/Figures/ChannelFrequencyResponse.pdf (no BoundingBox) ---
+File: ./Chapters/Oscillator/Figures/ChannelFrequencyResponse.pdf Graphic file (
+type eps)
+<./Chapters/Oscillator/Figures/ChannelFrequencyResponse.pdf> [143.1
+
+] [144.1
+
+]
+[145.1
+
+]
+l. 91 Writing main.idv[48] (main47x.png)
+
+l.91 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Osci
+llator/Figures/ChannelVoltageResponse.pdf (no BoundingBox) ---
+File: ./Chapters/Oscillator/Figures/ChannelVoltageResponse.pdf Graphic file (ty
+pe eps)
+<./Chapters/Oscillator/Figures/ChannelVoltageResponse.pdf> [146.1
+
+] [147.1
+
+]
+[148.1] [149.1
+
+]
+l. 107 Writing main.idv[49] (main48x.png)
+
+l.107 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Osc
+illator/Figures/Pulsatile_vs_SteadyShear.pdf (no BoundingBox) ---
+File: ./Chapters/Oscillator/Figures/Pulsatile_vs_SteadyShear.pdf Graphic file (
+type eps)
+<./Chapters/Oscillator/Figures/Pulsatile_vs_SteadyShear.pdf> [150.1
+
+] [151.1
+
+]
+[152.1] [153.1
+
+]
+l. 121 Writing main.idv[50] (main49x.png)
+File: ./Chapters/Oscillator/Figures/MicrochannelDesign.pdf Graphic file (type e
+ps)
+ <./Chapters/Oscillator/Figures/MicrochannelDesign.pdf>
+l. 121 Writing main.idv[51] (main50x.png)
+File: ./Chapters/Oscillator/Figures/DiaphragmDesign.pdf Graphic file (type eps)
+
+
+<./Chapters/Oscillator/Figures/DiaphragmDesign.pdf> [154.1
+
+] [155.1
+
+] [156.1])
+[157.1] [158.1
+
+]
+\openout2 = `Chapters/TumorCellAdhesion/Chapter.aux'.
+
+ (./Chapters/TumorCellAdhesion/Chapter.tex [159.1
+
+]
+Chapter 5.
+[160.1
+
+] [161.1] [162.1] [163.1] [164.1
+
+]
+l.24 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Tumo
+rCellAdhesion/Figures/OscillatoryDiagram4.jpg (no BoundingBox) ---
+l. 24 --- needs --- ./Chapters/TumorCellAdhesion/Figures/OscillatoryDiagram4.jp
+g ---
+[165.1
+
+] [166.1
+
+] [167.1] [168.1] [169.1] [170.1] [171.1
+
+]
+l. 49 Writing main.idv[52] (main51x.png)
+File: ./Chapters/TumorCellAdhesion/Figures/ImageDifferencing.pdf Graphic file (
+type eps)
+
+<./Chapters/TumorCellAdhesion/Figures/ImageDifferencing.pdf> [172.1
+
+]
+l. 54 Writing main.idv[53] (main52x.png)
+l. 54 Writing main.idv[54] (main53x.png)
+l. 56 Writing main.idv[55] (main54x.png)
+ [173.1
+
+]
+[174.1] [175.1
+
+]
+l. 67 Writing main.idv[56] (main55x.png)
+
+l.67 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Tumo
+rCellAdhesion/Figures/TheoryPlot.pdf (no BoundingBox) ---
+File: ./Chapters/TumorCellAdhesion/Figures/TheoryPlot.pdf Graphic file (type ep
+s)
+<./Chapters/TumorCellAdhesion/Figures/TheoryPlot.pdf> [176.1
+
+]
+l. 72 Writing main.idv[57] (main56x.png)
+ [177.1
+
+] [178.1]
+[179.1] [180.1
+
+]
+l. 92 Writing main.idv[58] (main57x.png)
+
+l.92 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Tumo
+rCellAdhesion/Figures/ExamplePC3.pdf (no BoundingBox) ---
+File: ./Chapters/TumorCellAdhesion/Figures/ExamplePC3.pdf Graphic file (type ep
+s)
+<./Chapters/TumorCellAdhesion/Figures/ExamplePC3.pdf>
+l. 92 Writing main.idv[59] (main58x.png)
+
+l.92 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Tumo
+rCellAdhesion/Figures/ExampleRPMI.pdf (no BoundingBox) ---
+File: ./Chapters/TumorCellAdhesion/Figures/ExampleRPMI.pdf Graphic file (type e
+ps)
+<./Chapters/TumorCellAdhesion/Figures/ExampleRPMI.pdf>
+l. 94 Writing main.idv[60] (main59x.png)
+
+l.94 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Tumo
+rCellAdhesion/Figures/ExampleMDA.pdf (no BoundingBox) ---
+File: ./Chapters/TumorCellAdhesion/Figures/ExampleMDA.pdf Graphic file (type ep
+s)
+<./Chapters/TumorCellAdhesion/Figures/ExampleMDA.pdf> [181.1
+
+] [182.1
+
+] [183.1
+
+]
+l.104 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Tum
+orCellAdhesion/Figures/Figure_FinalGraphs.jpg (no BoundingBox) ---
+l. 104 --- needs --- ./Chapters/TumorCellAdhesion/Figures/Figure_FinalGraphs.jp
+g ---
+[184.1
+
+] [185.1
+
+] [186.1] [187.1] [188.1] [189.1
+
+]
+l. 132 Writing main.idv[61] (main60x.png)
+File: ./Chapters/TumorCellAdhesion/Figures/StainingImages.pdf Graphic file (typ
+e eps)
+
+<./Chapters/TumorCellAdhesion/Figures/StainingImages.pdf> [190.1
+
+] [191.1
+
+]
+[192.1]) [193.1] [194.1
+
+]
+\openout2 = `Chapters/Cardiac/Chapter.aux'.
+
+ (./Chapters/Cardiac/Chapter.tex [195.1
+
+]
+Chapter 6.
+[196.1
+
+] [197.1] [198.1] [199.1] [200.1] [201.1] [202.1] [203.1
+
+]
+l.48 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Card
+iac/Figures/PAA20X.jpg (no BoundingBox) ---
+l. 48 --- needs --- ./Chapters/Cardiac/Figures/PAA20X.jpg ---
+l. 49 Writing main.idv[62] (main61x.png)
+l.49 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Card
+iac/Figures/AH20X.pdf (no BoundingBox) ---
+File: ./Chapters/Cardiac/Figures/AH20X.pdf Graphic file (type eps)
+<./Chapters/Cardiac/Figures/AH20X.pdf> [204.1
+
+] [205.1
+
+] [206.1
+
+]
+l.66 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Card
+iac/Figures/StainThin.jpg (no BoundingBox) ---
+l. 66 --- needs --- ./Chapters/Cardiac/Figures/StainThin.jpg ---
+l.67 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Card
+iac/Figures/StainThick.jpg (no BoundingBox) ---
+l. 67 --- needs --- ./Chapters/Cardiac/Figures/StainThick.jpg ---
+l.68 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Card
+iac/Figures/StainShort.jpg (no BoundingBox) ---
+l. 68 --- needs --- ./Chapters/Cardiac/Figures/StainShort.jpg ---
+[207.1
+
+] [208.1
+
+] [209.1] [210.1
+
+]
+l. 90 Writing main.idv[63] (main62x.png)
+
+l.90 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Card
+iac/Figures/Lysis.pdf (no BoundingBox) ---
+File: ./Chapters/Cardiac/Figures/Lysis.pdf Graphic file (type eps)
+<./Chapters/Cardiac/Figures/Lysis.pdf> [211.1
+
+] [212.1
+
+] [213.1] [214.1
+
+]
+l. 123 Writing main.idv[64] (main63x.png)
+
+l.123 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Car
+diac/Figures/Tagging.pdf (no BoundingBox) ---
+File: ./Chapters/Cardiac/Figures/Tagging.pdf Graphic file (type eps)
+<./Chapters/Cardiac/Figures/Tagging.pdf>
+l. 134 Writing main.idv[65] (main64x.png)
+
+l.134 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Car
+diac/Figures/Tagging2.pdf (no BoundingBox) ---
+File: ./Chapters/Cardiac/Figures/Tagging2.pdf Graphic file (type eps)
+<./Chapters/Cardiac/Figures/Tagging2.pdf> [215.1
+
+] [216.1] [217.1
+
+] [218.1]
+[219.1
+
+]
+l. 154 Writing main.idv[66] (main65x.png)
+
+l.154 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Car
+diac/Figures/Substrate.pdf (no BoundingBox) ---
+File: ./Chapters/Cardiac/Figures/Substrate.pdf Graphic file (type eps)
+<./Chapters/Cardiac/Figures/Substrate.pdf> [220.1
+
+] [221.1
+
+]
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+ [222.1]
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+) [223.1]
+[224.1
+
+]
+\openout2 = `Chapters/RealTimeCM/Chapter.aux'.
+
+ (./Chapters/RealTimeCM/Chapter.tex [225.1
+
+]
+Chapter 7.
+[226.1
+
+] [227.1] [228.1
+
+]
+l. 16 Writing main.idv[67] (main66x.png)
+
+l.16 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Intr
+oduction/Figures/OneWay.pdf (no BoundingBox) ---
+File: ./Chapters/Introduction/Figures/OneWay.pdf Graphic file (type eps)
+<./Chapters/Introduction/Figures/OneWay.pdf> [229.1
+
+]
+l. 24 Writing main.idv[68] (main67x.png)
+ [230.1
+
+] [231.1] [232.1
+
+]
+l. 33 Writing main.idv[69] (main68x.png)
+
+l.33 --- TeX4ht warning --- Cannot determine size of graphic in ./Appendicies/D
+iffusionValve/Figures/DiffusionValve.pdf (no BoundingBox) ---
+File: ./Appendicies/DiffusionValve/Figures/DiffusionValve.pdf Graphic file (typ
+e eps)
+<./Appendicies/DiffusionValve/Figures/DiffusionValve.pdf> [233.1
+
+] [234.1
+
+]
+[235.1] [236.1] [237.1] [238.1]) [239.1] [240.1
+
+]
+\openout2 = `Chapters/FutureDirections/Chapter.aux'.
+
+
+(./Chapters/FutureDirections/Chapter.tex [241.1
+
+]
+Chapter 8.
+[242.1
+
+] [243.1
+
+]
+l.11 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Futu
+reDirections/Figures/MultiStep.jpg (no BoundingBox) ---
+l. 11 --- needs --- ./Chapters/FutureDirections/Figures/MultiStep.jpg ---
+[244.1
+
+] [245.1
+
+] [246.1] [247.1
+
+]
+l. 32 Writing main.idv[70] (main69x.png)
+
+l.32 --- TeX4ht warning --- Cannot determine size of graphic in ./Chapters/Futu
+reDirections/Figures/BeadSpot.pdf (no BoundingBox) ---
+File: ./Chapters/FutureDirections/Figures/BeadSpot.pdf Graphic file (type eps)
+<./Chapters/FutureDirections/Figures/BeadSpot.pdf> [248.1
+
+] [249.1
+
+] [250.1])
+[251.1] [252.1
+
+]
+\openout2 = `Chapters/Conclusion/Chapter.aux'.
+
+ (./Chapters/Conclusion/Chapter.tex [253.1
+
+]) [254.1
+
+] [255.1
+
+]
+\openout2 = `Appendicies/DropletGeometry/Appendix.aux'.
+
+
+(./Appendicies/DropletGeometry/Appendix.tex [256.1
+
+]
+Appendix A.
+[257.1
+
+] [258.1
+
+]
+l. 19 Writing main.idv[71] (main70x.png)
+ [259.1
+
+]
+l. 32 Writing main.idv[72] (main71x.png)
+l. 37 Writing main.idv[73] (main72x.png)
+ [260.1
+
+]
+l. 42 Writing main.idv[74] (main73x.png)
+l. 49 Writing main.idv[75] (main74x.png)
+ [261.1]
+l. 54 Writing main.idv[76] (main75x.png)
+l. 59 Writing main.idv[77] (main76x.png)
+ [262.1]
+l. 65 Writing main.idv[78] (main77x.png)
+ [263.1]
+l. 72 Writing main.idv[79] (main78x.png)
+l. 78 Writing main.idv[80] (main79x.png)
+l. 83 Writing main.idv[81] (main80x.png)
+ [264.1]
+l. 90 Writing main.idv[82] (main81x.png)
+ [265.1]
+l. 95 Writing main.idv[83] (main82x.png)
+--- file main5.html ---
+l. 101 Writing main.idv[84] (main83x.png)
+
+[266.1
+
+]
+--- file main6.html ---
+l. 108 Writing main.idv[85] (main84x.png)
+l. 115 Writing main.idv[86] (main85x.png)
+ [267.1
+
+]
+l. 122 Writing main.idv[87] (main86x.png)
+ [268.1] [269.1
+
+]
+l. 129 Writing main.idv[88] (main87x.png)
+
+l.129 --- TeX4ht warning --- Cannot determine size of graphic in ./Appendicies/
+DropletGeometry/Figures/Theta.pdf (no BoundingBox) ---
+File: ./Appendicies/DropletGeometry/Figures/Theta.pdf Graphic file (type eps)
+<./Appendicies/DropletGeometry/Figures/Theta.pdf> [270.1
+
+]
+l. 135 Writing main.idv[89] (main88x.png)
+l. 140 Writing main.idv[90] (main89x.png)
+ [271.1
+
+]
+l. 145 Writing main.idv[91] (main90x.png)
+l. 150 Writing main.idv[92] (main91x.png)
+ [272.1])
+[273.1] [274.1
+
+]
+\openout2 = `Appendicies/Diffusion/Appendix.aux'.
+
+ (./Appendicies/Diffusion/Appendix.tex [275.1
+
+]
+Appendix B.
+[276.1
+
+]
+l. 12 Writing main.idv[93] (main92x.png)
+) [277.1] [278.1
+
+]
+\openout2 = `Appendicies/Concentrator/Appendix.aux'.
+
+ (./Appendicies/Concentrator/Appendix.tex [279.1
+
+]
+Appendix C.
+[280.1
+
+] [281.1] [282.1
+
+]
+l. 20 Writing main.idv[94] (main93x.png)
+File: ./Chapters/Concentrator/Figures/EvenPressure_Composite.pdf Graphic file (
+type eps)
+
+<./Chapters/Concentrator/Figures/EvenPressure_Composite.pdf> [283.1
+
+] [284.1
+
+]
+[285.1
+
+]
+l. 29 Writing main.idv[95] (main94x.png)
+File: ./Chapters/Concentrator/Figures/ShearStress.pdf Graphic file (type eps)
+ <./Chapters/Concentrator/Figures/ShearStress.pdf> [286.1
+
+] [287.1
+
+]
+[288.1
+
+]
+l. 38 Writing main.idv[96] (main95x.png)
+File: ./Chapters/Concentrator/Figures/StreamlinePlot.pdf Graphic file (type eps
+)
+ <./Chapters/Concentrator/Figures/StreamlinePlot.pdf> [289.1
+
+] [290.1
+
+])
+[291.1] [292.1
+
+]
+\openout2 = `Appendicies/Oscillator/Appendix.aux'.
+
+ (./Appendicies/Oscillator/Appendix.tex [293.1
+
+]
+Appendix D.
+[294.1
+
+] [295.1
+
+]
+l. 20 Writing main.idv[97] (main96x.png)
+ [296.1
+
+]
+l. 37 Writing main.idv[98] (main97x.png)
+l. 43 Writing main.idv[99] (main98x.png)
+ [297.1
+
+]
+l. 49 Writing main.idv[100] (main99x.png)
+l. 55 Writing main.idv[101] (main100x.png)
+ [298.1]
+l. 67 Writing main.idv[102] (main101x.png)
+ [299.1]
+l. 72 Writing main.idv[103] (main102x.png)
+l. 77 Writing main.idv[104] (main103x.png)
+ [300.1]
+l. 82 Writing main.idv[105] (main104x.png)
+l. 87 Writing main.idv[106] (main105x.png)
+ [301.1]
+l. 93 Writing main.idv[107] (main106x.png)
+ [302.1]
+l. 107 Writing main.idv[108] (main107x.png)
+l. 112 Writing main.idv[109] (main108x.png)
+
+[303.1]
+l. 117 Writing main.idv[110] (main109x.png)
+l. 122 Writing main.idv[111] (main110x.png)
+ [304.1]
+l. 131 Writing main.idv[112] (main111x.png)
+ [305.1]
+l. 136 Writing main.idv[113] (main112x.png)
+l. 145 Writing main.idv[114] (main113x.png)
+ [306.1]
+l. 151 Writing main.idv[115] (main114x.png)
+l. 157 Writing main.idv[116] (main115x.png)
+ [307.1]
+l. 162 Writing main.idv[117] (main116x.png)
+ [308.1]
+l. 171 Writing main.idv[118] (main117x.png)
+l. 177 Writing main.idv[119] (main118x.png)
+l. 183 Writing main.idv[120] (main119x.png)
+ [309.1]
+l. 191 Writing main.idv[121] (main120x.png)
+ [310.1]
+l. 199 Writing main.idv[122] (main121x.png)
+l. 208 Writing main.idv[123] (main122x.png)
+ [311.1]
+l. 214 Writing main.idv[124] (main123x.png)
+l. 222 Writing main.idv[125] (main124x.png)
+
+[312.1]
+l. 229 Writing main.idv[126] (main125x.png)
+l. 237 Writing main.idv[127] (main126x.png)
+ [313.1]
+l. 242 Writing main.idv[128] (main127x.png)
+l. 247 Writing main.idv[129] (main128x.png)
+ [314.1]
+l. 252 Writing main.idv[130] (main129x.png)
+ [315.1] [316.1
+
+]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 263.
+
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+(/Users/warrick/Documents/MMB_Lab/Papers_and_Chapters/Thesis_Materials/Prelim/a
+ppOscillatoryFlow/Materials/C.m
+LaTeX Font Info:    Try loading font information for TS1+pcr on input line 13.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/psnfss/ts1pcr.fd
+File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
+)) [317.1
+
+]
+[318.1
+
+] [319.1
+
+]
+(/Users/warrick/Documents/MMB_Lab/Papers_and_Chapters/Thesis_Materials/Prelim/a
+ppOscillatoryFlow/Materials/fun.m) [320.1
+
+] [321.1
+
+] [322.1
+
+]
+(/Users/warrick/Documents/MMB_Lab/Papers_and_Chapters/Thesis_Materials/Prelim/a
+ppOscillatoryFlow/Materials/T.m) [323.1
+
+] [324.1
+
+] [325.1
+
+]
+(/Users/warrick/Documents/MMB_Lab/Papers_and_Chapters/Thesis_Materials/Prelim/a
+ppOscillatoryFlow/Materials/C.m) [326.1
+
+]) [327.1
+
+] [328.1
+
+]
+\openout2 = `Appendicies/DiffusionValve/Appendix.aux'.
+
+
+(./Appendicies/DiffusionValve/Appendix.tex [329.1
+
+]
+Appendix E.
+l. 6 Writing main.idv[131] (main130x.png)
+[330.1
+
+]
+l. 14 Writing main.idv[132] (main131x.png)
+l. 21 Writing main.idv[133] (main132x.png)
+ [331.1] [332.1
+
+]
+l. 29 Writing main.idv[134] (main133x.png)
+
+l.29 --- TeX4ht warning --- Cannot determine size of graphic in ./Appendicies/D
+iffusionValve/Figures/DiffusionValve.pdf (no BoundingBox) ---
+File: ./Appendicies/DiffusionValve/Figures/DiffusionValve.pdf Graphic file (typ
+e eps)
+<./Appendicies/DiffusionValve/Figures/DiffusionValve.pdf> [333.1
+
+]) [334.1
+
+]
+[335.1
+
+]
+\openout2 = `Appendicies/Cardiac/Appendix.aux'.
+
+ (./Appendicies/Cardiac/Appendix.tex [336.1
+
+]
+Appendix F.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+[337.1
+
+] [338.1]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+ [339.1] [340.1]
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+ [341.1]
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+ [342.1] [343.1] [344.1
+
+]
+l. 47 Writing main.idv[135] (main134x.png)
+
+l.47 --- TeX4ht warning --- Cannot determine size of graphic in ./Appendicies/C
+ardiac/Figures/MassSpecPage1.pdf (no BoundingBox) ---
+File: ./Appendicies/Cardiac/Figures/MassSpecPage1.pdf Graphic file (type eps)
+<./Appendicies/Cardiac/Figures/MassSpecPage1.pdf>
+l. 48 Writing main.idv[136] (main135x.png)
+
+l.48 --- TeX4ht warning --- Cannot determine size of graphic in ./Appendicies/C
+ardiac/Figures/MassSpecPage2.pdf (no BoundingBox) ---
+File: ./Appendicies/Cardiac/Figures/MassSpecPage2.pdf Graphic file (type eps)
+<./Appendicies/Cardiac/Figures/MassSpecPage2.pdf> [345.1
+
+] [346.1] [347.1
+
+]
+[348.1
+
+]
+l. 54 Writing main.idv[137] (main136x.png)
+
+l.54 --- TeX4ht warning --- Cannot determine size of graphic in ./Appendicies/C
+ardiac/Figures/MassSpecSummary.pdf (no BoundingBox) ---
+File: ./Appendicies/Cardiac/Figures/MassSpecSummary.pdf Graphic file (type eps)
+
+<./Appendicies/Cardiac/Figures/MassSpecSummary.pdf> [349.1
+
+]) [350.1
+
+] [351.1
+
+]
+\openout2 = `Appendicies/RealTimeCM/Appendix.aux'.
+
+
+(./Appendicies/RealTimeCM/Appendix.tex [352.1
+
+]
+Appendix G.
+[353.1
+
+] [354.1] [355.1
+
+]
+l.18 --- TeX4ht warning --- Cannot determine size of graphic in ./Appendicies/R
+ealTimeCM/Figures/EvaporationChannel.jpg (no BoundingBox) ---
+l. 18 --- needs --- ./Appendicies/RealTimeCM/Figures/EvaporationChannel.jpg ---
+
+l.24 --- TeX4ht warning --- Cannot determine size of graphic in ./Appendicies/R
+ealTimeCM/Figures/EvaporationChannel2.jpg (no BoundingBox) ---
+l. 24 --- needs --- ./Appendicies/RealTimeCM/Figures/EvaporationChannel2.jpg --
+-
+[356.1
+
+] [357.1
+
+] [358.1] [359.1
+
+]
+l. 42 Writing main.idv[138] (main137x.png)
+
+l.42 --- TeX4ht warning --- Cannot determine size of graphic in ./Appendicies/D
+iffusionValve/Figures/DiffusionValve.pdf (no BoundingBox) ---
+File: ./Appendicies/DiffusionValve/Figures/DiffusionValve.pdf Graphic file (typ
+e eps)
+<./Appendicies/DiffusionValve/Figures/DiffusionValve.pdf> [360.1
+
+] [361.1
+
+]
+[362.1
+
+] [363.1
+
+] [364.1
+
+] [365.1
+
+]
+l. 74 Writing main.idv[139] (main138x.png)
+
+l.74 --- TeX4ht warning --- Cannot determine size of graphic in ./Appendicies/R
+ealTimeCM/Figures/SurfactantFlowDiagram.pdf (no BoundingBox) ---
+File: ./Appendicies/RealTimeCM/Figures/SurfactantFlowDiagram.pdf Graphic file (
+type eps)
+<./Appendicies/RealTimeCM/Figures/SurfactantFlowDiagram.pdf> [366.1
+
+] [367.1
+
+]
+[368.1
+
+] [369.1
+
+] [370.1
+
+] [371.1] [372.1
+
+]
+l.121 --- TeX4ht warning --- Cannot determine size of graphic in ./Appendicies/
+RealTimeCM/Figures/OneWay_Illustration_figure.png (no BoundingBox) ---
+l. 121 --- needs --- ./Appendicies/RealTimeCM/Figures/OneWay_Illustration_figur
+e.png ---
+[373.1
+
+] [374.1
+
+] [375.1] [376.1
+
+]
+l. 139 Writing main.idv[140] (main139x.png)
+
+l.139 --- TeX4ht warning --- Cannot determine size of graphic in ./Appendicies/
+RealTimeCM/Figures/Device.pdf (no BoundingBox) ---
+File: ./Appendicies/RealTimeCM/Figures/Device.pdf Graphic file (type eps)
+<./Appendicies/RealTimeCM/Figures/Device.pdf>
+l. 139 Writing main.idv[141] (main140x.png)
+
+l.139 --- TeX4ht warning --- Cannot determine size of graphic in ./Appendicies/
+RealTimeCM/Figures/Original.pdf (no BoundingBox) ---
+File: ./Appendicies/RealTimeCM/Figures/Original.pdf Graphic file (type eps)
+<./Appendicies/RealTimeCM/Figures/Original.pdf> [377.1
+
+] [378.1
+
+] [379.1
+
+]
+l. 148 Writing main.idv[142] (main141x.png)
+
+l.148 --- TeX4ht warning --- Cannot determine size of graphic in ./Appendicies/
+RealTimeCM/Figures/Analog.pdf (no BoundingBox) ---
+File: ./Appendicies/RealTimeCM/Figures/Analog.pdf Graphic file (type eps)
+<./Appendicies/RealTimeCM/Figures/Analog.pdf> [380.1
+
+]
+l. 155 Writing main.idv[143] (main142x.png)
+l. 158 Writing main.idv[144] (main143x.png)
+ [381.1
+
+]
+l. 165 Writing main.idv[145] (main144x.png)
+l. 168 Writing main.idv[146] (main145x.png)
+ [382.1]
+l. 172 Writing main.idv[147] (main146x.png)
+l. 176 Writing main.idv[148] (main147x.png)
+ [383.1]
+l. 179 Writing main.idv[149] (main148x.png)
+l. 183 Writing main.idv[150] (main149x.png)
+
+[384.1]
+l. 187 Writing main.idv[151] (main150x.png)
+l. 191 Writing main.idv[152] (main151x.png)
+ [385.1]
+l. 195 Writing main.idv[153] (main152x.png)
+l. 202 Writing main.idv[154] (main153x.png)
+ [386.1] [387.1] [388.1
+
+]
+l. 210 Writing main.idv[155] (main154x.png)
+
+l.210 --- TeX4ht warning --- Cannot determine size of graphic in ./Appendicies/
+RealTimeCM/Figures/CrossFlowPlot.pdf (no BoundingBox) ---
+File: ./Appendicies/RealTimeCM/Figures/CrossFlowPlot.pdf Graphic file (type eps
+)
+<./Appendicies/RealTimeCM/Figures/CrossFlowPlot.pdf> [389.1
+
+]
+l. 223 Writing main.idv[156] (main155x.png)
+ [390.1
+
+]) [391.1]
+(./main.bbl [392.1
+
+] [393.1
+
+] [394.1] [395.1] [396.1] [397.1] [398.1] [399.1]
+[400.1] [401.1] [402.1] [403.1] [404.1] [405.1] [406.1] [407.1] [408.1]
+[409.1] [410.1] [411.1] [412.1] [413.1])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 103.
+ [414.1]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 103.
+ (./main.aux
+(./Chapters/Introduction/Chapter.aux) (./Chapters/Physics/Chapter.aux)
+(./Chapters/FluxCapacitor/Chapter.aux) (./Chapters/Concentrator/Chapter.aux)
+(./Chapters/Oscillator/Chapter.aux) (./Chapters/TumorCellAdhesion/Chapter.aux)
+(./Chapters/Cardiac/Chapter.aux) (./Chapters/RealTimeCM/Chapter.aux)
+(./Chapters/FutureDirections/Chapter.aux) (./Chapters/Conclusion/Chapter.aux)
+(./Appendicies/DropletGeometry/Appendix.aux)
+(./Appendicies/Diffusion/Appendix.aux) (./Appendicies/Concentrator/Appendix.aux
+) (./Appendicies/Oscillator/Appendix.aux)
+(./Appendicies/DiffusionValve/Appendix.aux) (./Appendicies/Cardiac/Appendix.aux
+) (./Appendicies/RealTimeCM/Appendix.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 103.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 103.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 103.
+ ) 
+Here is how much of TeX's memory you used:
+ 16314 strings out of 493764
+ 247627 string characters out of 3144977
+ 467331 words of memory out of 3000000
+ 18963 multiletter control sequences out of 15000+200000
+ 18593 words of font info for 68 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 56i,18n,50p,39349b,1454s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on main.dvi (450 pages, 948940 bytes).

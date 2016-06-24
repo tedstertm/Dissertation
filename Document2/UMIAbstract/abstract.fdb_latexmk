@@ -1,0 +1,7 @@
+# Fdb version 2
+["pdflatex"] 1305737753 "abstract.tex" "abstract.pdf" "abstract" 
+  "/usr/local/texlive/2010/texmf-dist/tex/latex/base/article.cls" 1254151887 20571 b8bd218bf2e18b4f5817ee643cd9c515 ""
+  "/usr/local/texlive/2010/texmf-dist/tex/latex/base/size12.clo" 1254151887 9053 a28d9b3c915d12545f3d5e7c4986be20 ""
+  "abstract.aux" 1305737754 8 a94a2480d3289e625eea47cd1b285758 ""
+  "abstract.sty" 1305737737 1106 c4baf9fc299bf4f1192e39cb742c0184 ""
+  "abstract.tex" 1305737753 2773 35afa1ca61f3a15b5fe87270d61e24aa ""

@@ -1,0 +1,24 @@
+\begin{eqnarray*}
+q& = &\frac{-3.52 \times 10^{-23}}{1+\frac{C_{th}}{C_{cb}(t)}} \textrm{ [mol/cell/sec]} \\
+\textit{Cell Surface Density}& = &300 \textrm{ [cells/mm$^{2}$]} \\
+\textit{Proliferation Rate}& = &0.0 \textrm{ [doublings/day]} \\
+\textit{Cell Radius}& = &5  \textrm{ [}\mu \textrm{m]} \\
+H& = &250 \textrm{ [}\mu \textrm{m]} \\
+C_{th}& = &4.69\times 10^{-11} \textrm{ [mol/L]} \\
+C_{0}& = &4*C_{th} \textrm{ [mol/L]} \\
+D& = &58 \textrm{ [}\mu \textrm{m}^{2}/\textrm{s]} \\
+t_{d}& = &0.11 \textrm{ [hrs]} \\
+\end{eqnarray*}\\
+
+\begin{eqnarray*}
+q& = &2.78 \times 10^{-22} \textrm{ [mol/cell/sec]} \\
+\textit{Cell Surface Density}& = &300 \textrm{ [cells/mm$^{2}$]} \\
+\textit{Proliferation Rate}& = &0.0 \textrm{ [doublings/day]} \\
+\textit{Cell Radius}& = &5  \textrm{ [}\mu \textrm{m]} \\
+H& = &250 \textrm{ [}\mu \textrm{m]} \\
+C_{th}& = &5.0\times 10^{-10} \textrm{ [mol/L]} \\
+C_{0}& = &0 \textrm{ [mol/L]} \\
+D& = &79 \textrm{ [}\mu \textrm{m}^{2}/\textrm{s]} \\
+t_{d}& = &0.11 \textrm{ [hrs]} \\
+\end{eqnarray*}\\
+

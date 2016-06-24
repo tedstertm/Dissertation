@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d (TeX Live 2010)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: Chapters/Introduction/Chapter.aux
+A level-1 auxiliary file: Chapters/Physics/Chapter.aux
+A level-1 auxiliary file: Chapters/FluxCapacitor/Chapter.aux
+A level-1 auxiliary file: Chapters/Concentrator/Chapter.aux
+A level-1 auxiliary file: Chapters/Oscillator/Chapter.aux
+A level-1 auxiliary file: Chapters/TumorCellAdhesion/Chapter.aux
+A level-1 auxiliary file: Chapters/Cardiac/Chapter.aux
+A level-1 auxiliary file: Chapters/RealTimeCM/Chapter.aux
+A level-1 auxiliary file: Chapters/FutureDirections/Chapter.aux
+A level-1 auxiliary file: Chapters/Conclusion/Chapter.aux
+A level-1 auxiliary file: Appendicies/DropletGeometry/Appendix.aux
+A level-1 auxiliary file: Appendicies/Diffusion/Appendix.aux
+A level-1 auxiliary file: Appendicies/Concentrator/Appendix.aux
+A level-1 auxiliary file: Appendicies/Oscillator/Appendix.aux
+A level-1 auxiliary file: Appendicies/DiffusionValve/Appendix.aux
+A level-1 auxiliary file: Appendicies/Cardiac/Appendix.aux
+A level-1 auxiliary file: Appendicies/RealTimeCM/Appendix.aux
+The style file: abbrvnat.bst
+Database file #1: /Users/warrick/Documents/MMB_Lab/Papers_and_Chapters/References/ReferenceLibrary.bib
+Repeated entry---line 3057 of file /Users/warrick/Documents/MMB_Lab/Papers_and_Chapters/References/ReferenceLibrary.bib
+ : @article{H:1987ij
+ :                  ,
+I'm skipping whatever remains of this entry
+You've used 152 entries,
+            2773 wiz_defined-function locations,
+            1781 strings with 49323 characters,
+and the built_in function-call counts, 94713 in all, are:
+= -- 8022
+> -- 7678
+< -- 35
++ -- 2569
+- -- 2412
+* -- 9454
+:= -- 15062
+add.period$ -- 569
+call.type$ -- 152
+change.case$ -- 1257
+chr.to.int$ -- 147
+cite$ -- 304
+duplicate$ -- 3151
+empty$ -- 6174
+format.name$ -- 2620
+if$ -- 19241
+int.to.chr$ -- 6
+int.to.str$ -- 1
+missing$ -- 153
+newline$ -- 881
+num.names$ -- 608
+pop$ -- 2120
+preamble$ -- 1
+purify$ -- 1108
+quote$ -- 0
+skip$ -- 2565
+stack$ -- 0
+substring$ -- 3652
+swap$ -- 266
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1662
+warning$ -- 0
+while$ -- 636
+width$ -- 0
+write$ -- 2207
+(There was 1 error message)

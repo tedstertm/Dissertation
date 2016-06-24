@@ -1,0 +1,177 @@
+\contentsline {chapter}{Abstract}{i}{chapter*.1}
+\contentsline {chapter}{Acknowledgements}{ii}{chapter*.2}
+\contentsline {chapter}{Papers}{iv}{chapter*.3}
+\contentsline {chapter}{List of Figures}{vi}{chapter*.6}
+\contentsline {chapter}{List of Tables}{xx}{chapter*.7}
+\contentsline {chapter}{Introduction}{1}{chapter*.9}
+\contentsline {chapter}{\numberline {1}Physics: Scaling Cell-Based Assays}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Laminar Flow: Channel Washing and Treatments}{4}{section.1.1}
+\contentsline {paragraph}{Preface.}{4}{section*.12}
+\contentsline {section}{\numberline {1.2}Evaporation: Theory and Implications}{5}{section.1.2}
+\contentsline {paragraph}{Preface.}{5}{section*.14}
+\contentsline {section}{\numberline {1.3}Reduced Volumes: The Promise of Microfluidics}{8}{section.1.3}
+\contentsline {paragraph}{Preface.}{8}{section*.17}
+\contentsline {section}{\numberline {1.4}Diffusion: Soluble Factor Signaling and Co-culture}{9}{section.1.4}
+\contentsline {paragraph}{Preface.}{9}{section*.20}
+\contentsline {subsection}{\numberline {1.4.1}Transport}{12}{subsection.1.4.1}
+\contentsline {subsubsection}{Math Model}{12}{section*.22}
+\contentsline {subsubsection}{Comparison of Device Designs}{15}{section*.24}
+\contentsline {subsection}{\numberline {1.4.2}Local Culture Environment}{17}{subsection.1.4.2}
+\contentsline {subsubsection}{PDGF Accumulation}{18}{section*.27}
+\contentsline {subsubsection}{EGF Depletion}{19}{section*.29}
+\contentsline {subsubsection}{Single Chamber Accumulation/Depletion and Local Cell Density}{21}{section*.31}
+\contentsline {subsection}{\numberline {1.4.3}Co-culture Timescales}{21}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}Other Microenvironmental Considerations}{23}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {1.4.5}Conclusions}{23}{subsection.1.4.5}
+\contentsline {chapter}{\numberline {2}Components: `The Flux Capacitor' for Pipete-Based Laminar Flow Patterning}{25}{chapter.2}
+\contentsline {section}{\numberline {2.1}Preface}{25}{section.2.1}
+\contentsline {section}{\numberline {2.2}Introduction}{25}{section.2.2}
+\contentsline {section}{\numberline {2.3}Methods}{28}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Numerical Simulations}{28}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Device Fabrication}{28}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Device Characterization}{28}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Cell culture}{29}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Cell patterning}{29}{subsection.2.3.5}
+\contentsline {section}{\numberline {2.4}Results and Discussion}{30}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Demonstration of Laminar Flow Patterning}{30}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Analysis of Each Device Component}{30}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Patterning of More Than Two Streams}{34}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Patterning for Cell-Based Assays}{36}{subsection.2.4.4}
+\contentsline {section}{\numberline {2.5}Conclusions}{38}{section.2.5}
+\contentsline {section}{\numberline {2.6}Acknowledgements}{39}{section.2.6}
+\contentsline {chapter}{\numberline {3}Components: `The Concentrator' for Rare Cell Populations}{40}{chapter.3}
+\contentsline {section}{\numberline {3.1}Preface}{40}{section.3.1}
+\contentsline {section}{\numberline {3.2}Introduction}{40}{section.3.2}
+\contentsline {section}{\numberline {3.3}Experimental}{43}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Device Design}{43}{subsection.3.3.1}
+\contentsline {subsubsection}{Transport Channels}{44}{section*.38}
+\contentsline {subsubsection}{Collection Region}{45}{section*.39}
+\contentsline {subsubsection}{Passive Pumping}{45}{section*.40}
+\contentsline {subsection}{\numberline {3.3.2}Device Fabrication and Preparation}{46}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Cell Culture}{47}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Fluid Modeling}{47}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Results and Discussion}{48}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Dimensional Analysis of Cell Collection}{48}{subsection.3.4.1}
+\contentsline {subsubsection}{Experimental Calculation of {\relax \mathversion {bold}$t_{set}/t_{res}$}}{50}{section*.41}
+\contentsline {subsection}{\numberline {3.4.2}Cell Collection}{50}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Cell Loss}{53}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}In-Channel Cell Treatment}{56}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Cell Culture}{56}{subsection.3.4.5}
+\contentsline {section}{\numberline {3.5}Conclusions}{57}{section.3.5}
+\contentsline {section}{\numberline {3.6}Acknowledgement}{58}{section.3.6}
+\contentsline {chapter}{\numberline {4}Components: `The Oscillator' for Adhesion and Shear-Stress Assays}{59}{chapter.4}
+\contentsline {section}{\numberline {4.1}Preface}{59}{section.4.1}
+\contentsline {section}{\numberline {4.2}Introduction}{59}{section.4.2}
+\contentsline {section}{\numberline {4.3}Approach}{60}{section.4.3}
+\contentsline {section}{\numberline {4.4}Characterization and Discussion}{62}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Actuator Response}{62}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Shear-Stress Response}{63}{subsection.4.4.2}
+\contentsline {subsubsection}{Flow Transition: Quasi-steady \emph {vs}\ Pulsatile}{63}{section*.48}
+\contentsline {subsubsection}{Pumping Transition}{64}{section*.50}
+\contentsline {subsubsection}{Overall System Response}{66}{section*.52}
+\contentsline {section}{\numberline {4.5}Methods}{67}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Actuator Motion Measurements}{67}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Fluid Flow Modeling and Shear-Stress Estimation}{67}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Device Setup}{70}{subsection.4.5.3}
+\contentsline {section}{\numberline {4.6}Other Potential Applications}{71}{section.4.6}
+\contentsline {section}{\numberline {4.7}Conclusions}{71}{section.4.7}
+\contentsline {chapter}{\numberline {5}Assays: Cell Adhesion Assay Validation: Tumor-Cell Adhesion to a HUVEC Monolayer}{73}{chapter.5}
+\contentsline {section}{\numberline {5.1}Preface}{73}{section.5.1}
+\contentsline {section}{\numberline {5.2}Introduction}{73}{section.5.2}
+\contentsline {section}{\numberline {5.3}Results and Discussion}{76}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}System Design and Operation}{76}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Adhesion Assay via Image Differencing}{79}{subsection.5.3.2}
+\contentsline {paragraph}{Measurement of Attachment \emph {vs}\ Detachment.}{79}{section*.58}
+\contentsline {paragraph}{Oscillatory \emph {vs}\ Flow-Through Methodologies}{79}{section*.59}
+\contentsline {paragraph}{Image Analysis: Preprocessing.}{80}{section*.60}
+\contentsline {paragraph}{Image Analysis: Quantifying the Percent of Adhered Cells.}{81}{section*.61}
+\contentsline {paragraph}{Batch Processing.}{82}{section*.63}
+\contentsline {paragraph}{Interpretation of Results.}{83}{section*.64}
+\contentsline {subsection}{\numberline {5.3.3}Cancer cell adhesion}{85}{subsection.5.3.3}
+\contentsline {section}{\numberline {5.4}Conclusion}{88}{section.5.4}
+\contentsline {section}{\numberline {5.5}Materials and Methods}{89}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Cell Culture}{89}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Immunostaining and HUVEC activation}{90}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Image Capture and Analysis}{90}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.4}Statistical Analyses}{92}{subsection.5.5.4}
+\contentsline {paragraph}{Effects of activation.}{92}{section*.69}
+\contentsline {paragraph}{Differences between cell type.}{92}{section*.70}
+\contentsline {paragraph}{Outliers.}{92}{section*.71}
+\contentsline {chapter}{\numberline {6}Assays: Bone Marrow Mesenchymal Stem Cell Adhesion to ECM Produced by Cardiac Fibroblasts: An \emph {In Vitro} Model for Developing Cell-Based Therapies for the Heart}{94}{chapter.6}
+\contentsline {section}{\numberline {6.1}Preface}{94}{section.6.1}
+\contentsline {section}{\numberline {6.2}Introduction}{95}{section.6.2}
+\contentsline {section}{\numberline {6.3}Results}{97}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Modeling Different Phases of Healing}{97}{subsection.6.3.1}
+\contentsline {paragraph}{\textbf {Note}:}{99}{section*.72}
+\contentsline {subsection}{\numberline {6.3.2}Model 1: Post Myocyte Death}{99}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Model 2: Post Removal of Cell Debris}{99}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Model 3: Scar Formation and Late-Stage Healing}{100}{subsection.6.3.4}
+\contentsline {subsection}{\numberline {6.3.5}BMSC Adhesion}{101}{subsection.6.3.5}
+\contentsline {subsubsection}{Model 1 \emph {vs}\ Model 2: Influence of Cell Debris}{102}{section*.75}
+\contentsline {subsubsection}{Model 2 \emph {vs}\ Model 3: Influence of CFs}{102}{section*.77}
+\contentsline {subsection}{\numberline {6.3.6}Increased Attachment via Antibody Tethering}{103}{subsection.6.3.6}
+\contentsline {section}{\numberline {6.4}Additional Adhesion Comparisons}{105}{section.6.4}
+\contentsline {section}{\numberline {6.5}Discussion and Conclusion}{106}{section.6.5}
+\contentsline {section}{\numberline {6.6}Methods}{106}{section.6.6}
+\contentsline {subsection}{\numberline {6.6.1}PAA Lysis}{106}{subsection.6.6.1}
+\contentsline {subsection}{\numberline {6.6.2}AH Lysis}{107}{subsection.6.6.2}
+\contentsline {subsection}{\numberline {6.6.3}CF Isolation and Culture}{107}{subsection.6.6.3}
+\contentsline {subsection}{\numberline {6.6.4}BMSC Isolation and Culture}{107}{subsection.6.6.4}
+\contentsline {subsection}{\numberline {6.6.5}Adhesion Assay}{108}{subsection.6.6.5}
+\contentsline {chapter}{\numberline {7}Assays: A Passive Microfluidic Real-Time Conditioned Media Assay}{109}{chapter.7}
+\contentsline {section}{\numberline {7.1}Preface}{109}{section.7.1}
+\contentsline {section}{\numberline {7.2}Introduction}{109}{section.7.2}
+\contentsline {section}{\numberline {7.3}The Diffusion Valve}{111}{section.7.3}
+\contentsline {section}{\numberline {7.4}Slow-Flow Pump}{112}{section.7.4}
+\contentsline {section}{\numberline {7.5}Evaporation-Driven Slow Flow}{112}{section.7.5}
+\contentsline {paragraph}{On-Chip Dry Environment}{113}{section*.82}
+\contentsline {paragraph}{On-Chip Humid Environment}{113}{section*.83}
+\contentsline {section}{\numberline {7.6}Gravity-Driven Slow Flow}{114}{section.7.6}
+\contentsline {section}{\numberline {7.7}A Limitation of Using Open Microfluidic Ports}{115}{section.7.7}
+\contentsline {section}{\numberline {7.8}Alternative Approaches for the Future}{116}{section.7.8}
+\contentsline {chapter}{\numberline {8}Future Directions}{118}{chapter.8}
+\contentsline {section}{\numberline {8.1}The Multi-Step Invasion Assay}{118}{section.8.1}
+\contentsline {paragraph}{Note:}{118}{section*.84}
+\contentsline {section}{\numberline {8.2}BeadSpot Assay for Targeted Detection of Cell Secretions}{119}{section.8.2}
+\contentsline {paragraph}{Note:}{119}{section*.86}
+\contentsline {section}{\numberline {8.3}3-D Invasion Assays}{121}{section.8.3}
+\contentsline {paragraph}{Note:}{121}{section*.88}
+\contentsline {chapter}{Conclusion}{124}{chapter*.89}
+\contentsline {chapter}{\numberline {A}Droplet Geometry}{125}{appendix.A}
+\contentsline {section}{\numberline {A.1}Radius of Curvature, $R_{i}$ and $\mathcal {R}_{i}$}{125}{section.A.1}
+\contentsline {section}{\numberline {A.2}Height, $H_{i}$ and $\mathcal {H}_{i}$}{126}{section.A.2}
+\contentsline {section}{\numberline {A.3}Contact Angle, $\theta _{i}$}{126}{section.A.3}
+\contentsline {section}{\numberline {A.4}Volume, $V_{i}$ and $\mathcal {V}_{i}$}{127}{section.A.4}
+\contentsline {section}{\numberline {A.5}Location of Center of Radius of Curvature, $C_{i}$ and $\mathcal {C}_{i}$}{127}{section.A.5}
+\contentsline {chapter}{\numberline {B}Diffusion Modeling}{129}{appendix.B}
+\contentsline {section}{\numberline {B.1}PDGF Modeling}{129}{section.B.1}
+\contentsline {section}{\numberline {B.2}EGF Modeling}{129}{section.B.2}
+\contentsline {chapter}{\numberline {C}Concentrator: Additional Information}{131}{appendix.C}
+\contentsline {section}{\numberline {C.1}Estimation of Cell Number Limit}{131}{section.C.1}
+\contentsline {section}{\numberline {C.2}Initial Design Approach for Concentrator Design}{131}{section.C.2}
+\contentsline {section}{\numberline {C.3}Cell Loss Modeling}{132}{section.C.3}
+\contentsline {section}{\numberline {C.4}Experimental Calculation of {\relax \mathversion {bold}$t_{set}/t_{res}$}}{135}{section.C.4}
+\contentsline {chapter}{\numberline {D}Oscillatory Flow}{137}{appendix.D}
+\contentsline {section}{\numberline {D.1}Steady Laminar Flow Between Parallel Plates}{138}{section.D.1}
+\contentsline {section}{\numberline {D.2}Oscillatory, Non-Turbulent Flow Between Parallel Plates}{138}{section.D.2}
+\contentsline {section}{\numberline {D.3}Steady Flow in a Rectangular Duct}{141}{section.D.3}
+\contentsline {section}{\numberline {D.4}Shear Stress from Amplitude}{142}{section.D.4}
+\contentsline {section}{\numberline {D.5}Units and Conversions}{143}{section.D.5}
+\contentsline {section}{\numberline {D.6}Matlab Code}{144}{section.D.6}
+\contentsline {chapter}{\numberline {E}Diffusion Valve}{147}{appendix.E}
+\contentsline {chapter}{\numberline {F}Cardiac Disease}{149}{appendix.F}
+\contentsline {section}{\numberline {F.1}Outline of Background Information and Motivation}{149}{section.F.1}
+\contentsline {section}{\numberline {F.2}Mass Spectrometry Data}{154}{section.F.2}
+\contentsline {chapter}{\numberline {G}Real-Time Conditioned Media Assay}{157}{appendix.G}
+\contentsline {section}{\numberline {G.1}Passive Methods for Producing Slow Flow in Microchannels}{157}{section.G.1}
+\contentsline {subsection}{\numberline {G.1.1}Device Designs}{158}{subsection.G.1.1}
+\contentsline {subsubsection}{Evaporation}{158}{section*.99}
+\contentsline {subsubsection}{Surfactant Mediated Flow}{162}{section*.103}
+\contentsline {subsection}{\numberline {G.1.2}Methods}{165}{subsection.G.1.2}
+\contentsline {subsubsection}{Device Characterization}{165}{section*.106}
+\contentsline {subsection}{\numberline {G.1.3}Preliminary Results}{165}{subsection.G.1.3}
+\contentsline {subsection}{\numberline {G.1.4}Expected Challenges}{166}{subsection.G.1.4}
+\contentsline {paragraph}{Side note for future work:}{167}{section*.108}
+\contentsline {section}{\numberline {G.2}Cross Flow in the Diffusion Region}{167}{section.G.2}
+\contentsline {section}{\numberline {G.3}Peclet Ratio}{170}{section.G.3}
+\contentsline {chapter}{Bibliography}{172}{appendix*.112}
